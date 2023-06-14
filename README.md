@@ -182,7 +182,8 @@ https://www.youtube.com/watch?v=tBFaP0RP_aM
 
 Ομάδα 1: Ανέλαβε την υλοποίηση του σεναρίου 1 για την ύπαρξη βροχής στην ατμόσφαιρα
 [Φύλλο εργασίας ομάδας 1](https://pages.github.com/)
-
+[a link](/Φύλλο εργασίας ομάδας 1.pdf)
+[a link](Φύλλο εργασίας ομάδας 1.pdf)
 Ομάδα 2: Ανέλαβε την υλοποίηση του σεναρίου 2 για την ύπαρξη ηλιοφάνειας στην ατμόσφαιρα
 Φύλλο εργασίας ομάδας 2
 
@@ -212,9 +213,7 @@ P3: Αισθητήρας αέρα
 
 Ένα βίντεο με την αναλυτική παρουσίαση του έργου μπορείτε να δείτε εδώ
 
-
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/WEP83OReLeY/maxresdefault.jpg)](https://youtu.be/WEP83OReLeY "My video")
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/FV2nJcAjP18/1.jpg)](https://youtu.be/FV2nJcAjP18 "My video")
 
 **Προτεινόμενες Δραστηριότητες για Επέκταση**
 
@@ -249,8 +248,7 @@ https://github.com/dimkolymbarioy/2023_robotics/
 
 Αυτή η εργασία χορηγείται με άδεια Creative Commons Αναφορά Δημιουργού – Παρόμοια Διανομή 4.0 Διεθνές .
 
-<img src="images/cc.jpg"  />
-
+<img src="images/cc.png"  />
 
 
 

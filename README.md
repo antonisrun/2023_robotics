@@ -248,7 +248,7 @@ P3: Αισθητήρας αέρα
 
 **Σελίδα στο github**
 
-https://github.com/dimkolymbarioy/2023_robotics/
+(https://github.com/antonisrun/2023_robotics/)
 
 Αυτή η εργασία χορηγείται με άδεια Creative Commons Αναφορά Δημιουργού – Παρόμοια Διανομή 4.0 Διεθνές .
 
@@ -268,7 +268,7 @@ https://github.com/dimkolymbarioy/2023_robotics/
 
 ### ΦΩΤΟΓΡΑΦΙΚΟ ΥΛΙΚΟ
 
-<img src="images/00.jpg" width="300" height="500" /> <img src="images/1.jpg" width="300" height="500" />
+<img src="images/000.jpg" width="300" height="500" /> <img src="images/1.jpg" width="300" height="500" />
 
 <img src="images/2.jpg" width="300" height="500" /> <img src="images/3.jpg" width="300" height="500" />
 

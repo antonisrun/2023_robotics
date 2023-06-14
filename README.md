@@ -212,7 +212,9 @@ P3: Αισθητήρας αέρα
 
 Ένα βίντεο με την αναλυτική παρουσίαση του έργου μπορείτε να δείτε εδώ
 
-(https://youtu.be/WEP83OReLeY "My video")
+
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/WEP83OReLeY/maxresdefault.jpg)](https://youtu.be/WEP83OReLeY "My video")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/FV2nJcAjP18/1.jpg)](https://youtu.be/FV2nJcAjP18 "My video")
 
 **Προτεινόμενες Δραστηριότητες για Επέκταση**
 
